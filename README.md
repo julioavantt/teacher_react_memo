@@ -18,7 +18,7 @@
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
 
-## Este repo trata sobre: React Conditional Rendering.
+## Este repo trata sobre: React memo.
 
 - Esta aplicación está creada con Create React App.
 - Clonarla ejecutando git clone https://github.com/julioavantt/teacher_react_memo.git
